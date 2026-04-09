@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/mohammed123-code/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0485-max-consecutive-ones](https://github.com/mohammed123-code/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0645-set-mismatch](https://github.com/mohammed123-code/Leetcode/tree/master/0645-set-mismatch) |
+| [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/mohammed123-code/Leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1580-shuffle-the-array](https://github.com/mohammed123-code/Leetcode/tree/master/1580-shuffle-the-array) |
 | [2015-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/mohammed123-code/Leetcode/tree/master/2015-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2058-concatenation-of-array](https://github.com/mohammed123-code/Leetcode/tree/master/2058-concatenation-of-array) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/mohammed123-code/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0645-set-mismatch](https://github.com/mohammed123-code/Leetcode/tree/master/0645-set-mismatch) |
+| [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/mohammed123-code/Leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 ## String
 |  |
 | ------- |
@@ -98,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/mohammed123-code/Leetcode/tree/master/0015-3sum) |
 | [0645-set-mismatch](https://github.com/mohammed123-code/Leetcode/tree/master/0645-set-mismatch) |
+| [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/mohammed123-code/Leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 ## Matrix
 |  |
 | ------- |
@@ -126,4 +129,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0645-set-mismatch](https://github.com/mohammed123-code/Leetcode/tree/master/0645-set-mismatch) |
+## Counting Sort
+|  |
+| ------- |
+| [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/mohammed123-code/Leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 <!---LeetCode Topics End-->
