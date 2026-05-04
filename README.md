@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/mohammed123-code/Leetcode/tree/master/0015-3sum) |
+| [0048-rotate-image](https://github.com/mohammed123-code/Leetcode/tree/master/0048-rotate-image) |
 | [0085-maximal-rectangle](https://github.com/mohammed123-code/Leetcode/tree/master/0085-maximal-rectangle) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/mohammed123-code/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0200-number-of-islands](https://github.com/mohammed123-code/Leetcode/tree/master/0200-number-of-islands) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/mohammed123-code/Leetcode/tree/master/0002-add-two-numbers) |
+| [0048-rotate-image](https://github.com/mohammed123-code/Leetcode/tree/master/0048-rotate-image) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/mohammed123-code/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0172-factorial-trailing-zeroes](https://github.com/mohammed123-code/Leetcode/tree/master/0172-factorial-trailing-zeroes) |
 | [0804-rotated-digits](https://github.com/mohammed123-code/Leetcode/tree/master/0804-rotated-digits) |
@@ -120,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/mohammed123-code/Leetcode/tree/master/0048-rotate-image) |
 | [0085-maximal-rectangle](https://github.com/mohammed123-code/Leetcode/tree/master/0085-maximal-rectangle) |
 | [0200-number-of-islands](https://github.com/mohammed123-code/Leetcode/tree/master/0200-number-of-islands) |
 | [2015-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/mohammed123-code/Leetcode/tree/master/2015-determine-whether-matrix-can-be-obtained-by-rotation) |
