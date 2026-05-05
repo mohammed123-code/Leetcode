@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1975-minimum-distance-to-the-target-element](https://github.com/mohammed123-code/Leetcode/tree/master/1975-minimum-distance-to-the-target-element) |
 | [2015-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/mohammed123-code/Leetcode/tree/master/2015-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2058-concatenation-of-array](https://github.com/mohammed123-code/Leetcode/tree/master/2058-concatenation-of-array) |
+| [2107-find-unique-binary-string](https://github.com/mohammed123-code/Leetcode/tree/master/2107-find-unique-binary-string) |
 | [3215-matrix-similarity-after-cyclic-shifts](https://github.com/mohammed123-code/Leetcode/tree/master/3215-matrix-similarity-after-cyclic-shifts) |
 ## Binary Search
 |  |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/mohammed123-code/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0645-set-mismatch](https://github.com/mohammed123-code/Leetcode/tree/master/0645-set-mismatch) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/mohammed123-code/Leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+| [2107-find-unique-binary-string](https://github.com/mohammed123-code/Leetcode/tree/master/2107-find-unique-binary-string) |
 ## String
 |  |
 | ------- |
@@ -87,10 +89,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0812-rotate-string](https://github.com/mohammed123-code/Leetcode/tree/master/0812-rotate-string) |
 | [0961-long-pressed-name](https://github.com/mohammed123-code/Leetcode/tree/master/0961-long-pressed-name) |
 | [1910-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/mohammed123-code/Leetcode/tree/master/1910-check-if-binary-string-has-at-most-one-segment-of-ones) |
+| [2107-find-unique-binary-string](https://github.com/mohammed123-code/Leetcode/tree/master/2107-find-unique-binary-string) |
 ## Backtracking
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/mohammed123-code/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [2107-find-unique-binary-string](https://github.com/mohammed123-code/Leetcode/tree/master/2107-find-unique-binary-string) |
 ## Tree
 |  |
 | ------- |
