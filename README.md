@@ -37,12 +37,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/mohammed123-code/Leetcode/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/mohammed123-code/Leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0061-rotate-list](https://github.com/mohammed123-code/Leetcode/tree/master/0061-rotate-list) |
 | [0234-palindrome-linked-list](https://github.com/mohammed123-code/Leetcode/tree/master/0234-palindrome-linked-list) |
 ## Two Pointers
 |  |
 | ------- |
 | [0015-3sum](https://github.com/mohammed123-code/Leetcode/tree/master/0015-3sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/mohammed123-code/Leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0061-rotate-list](https://github.com/mohammed123-code/Leetcode/tree/master/0061-rotate-list) |
 | [0151-reverse-words-in-a-string](https://github.com/mohammed123-code/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0234-palindrome-linked-list](https://github.com/mohammed123-code/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0961-long-pressed-name](https://github.com/mohammed123-code/Leetcode/tree/master/0961-long-pressed-name) |
