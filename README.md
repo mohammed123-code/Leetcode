@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/mohammed123-code/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/mohammed123-code/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0234-palindrome-linked-list](https://github.com/mohammed123-code/Leetcode/tree/master/0234-palindrome-linked-list) |
+| [0591-tag-validator](https://github.com/mohammed123-code/Leetcode/tree/master/0591-tag-validator) |
 | [1552-build-an-array-with-stack-operations](https://github.com/mohammed123-code/Leetcode/tree/master/1552-build-an-array-with-stack-operations) |
 ## Recursion
 |  |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/mohammed123-code/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0151-reverse-words-in-a-string](https://github.com/mohammed123-code/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/mohammed123-code/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
+| [0591-tag-validator](https://github.com/mohammed123-code/Leetcode/tree/master/0591-tag-validator) |
 | [0812-rotate-string](https://github.com/mohammed123-code/Leetcode/tree/master/0812-rotate-string) |
 | [0961-long-pressed-name](https://github.com/mohammed123-code/Leetcode/tree/master/0961-long-pressed-name) |
 | [1910-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/mohammed123-code/Leetcode/tree/master/1910-check-if-binary-string-has-at-most-one-segment-of-ones) |
