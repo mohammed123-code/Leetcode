@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2015-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/mohammed123-code/Leetcode/tree/master/2015-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2058-concatenation-of-array](https://github.com/mohammed123-code/Leetcode/tree/master/2058-concatenation-of-array) |
 | [2107-find-unique-binary-string](https://github.com/mohammed123-code/Leetcode/tree/master/2107-find-unique-binary-string) |
+| [2639-separate-the-digits-in-an-array](https://github.com/mohammed123-code/Leetcode/tree/master/2639-separate-the-digits-in-an-array) |
 | [3215-matrix-similarity-after-cyclic-shifts](https://github.com/mohammed123-code/Leetcode/tree/master/3215-matrix-similarity-after-cyclic-shifts) |
 ## Binary Search
 |  |
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1552-build-an-array-with-stack-operations](https://github.com/mohammed123-code/Leetcode/tree/master/1552-build-an-array-with-stack-operations) |
 | [2058-concatenation-of-array](https://github.com/mohammed123-code/Leetcode/tree/master/2058-concatenation-of-array) |
+| [2639-separate-the-digits-in-an-array](https://github.com/mohammed123-code/Leetcode/tree/master/2639-separate-the-digits-in-an-array) |
 | [3215-matrix-similarity-after-cyclic-shifts](https://github.com/mohammed123-code/Leetcode/tree/master/3215-matrix-similarity-after-cyclic-shifts) |
 ## Dynamic Programming
 |  |
