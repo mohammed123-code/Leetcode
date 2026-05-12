@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/mohammed123-code/Leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1552-build-an-array-with-stack-operations](https://github.com/mohammed123-code/Leetcode/tree/master/1552-build-an-array-with-stack-operations) |
 | [1580-shuffle-the-array](https://github.com/mohammed123-code/Leetcode/tree/master/1580-shuffle-the-array) |
+| [1784-minimum-initial-energy-to-finish-tasks](https://github.com/mohammed123-code/Leetcode/tree/master/1784-minimum-initial-energy-to-finish-tasks) |
 | [1975-minimum-distance-to-the-target-element](https://github.com/mohammed123-code/Leetcode/tree/master/1975-minimum-distance-to-the-target-element) |
 | [2015-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/mohammed123-code/Leetcode/tree/master/2015-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2058-concatenation-of-array](https://github.com/mohammed123-code/Leetcode/tree/master/2058-concatenation-of-array) |
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/mohammed123-code/Leetcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0645-set-mismatch](https://github.com/mohammed123-code/Leetcode/tree/master/0645-set-mismatch) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/mohammed123-code/Leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+| [1784-minimum-initial-energy-to-finish-tasks](https://github.com/mohammed123-code/Leetcode/tree/master/1784-minimum-initial-energy-to-finish-tasks) |
 ## Matrix
 |  |
 | ------- |
@@ -177,4 +179,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/mohammed123-code/Leetcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+| [1784-minimum-initial-energy-to-finish-tasks](https://github.com/mohammed123-code/Leetcode/tree/master/1784-minimum-initial-energy-to-finish-tasks) |
 <!---LeetCode Topics End-->
