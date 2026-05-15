@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2058-concatenation-of-array](https://github.com/mohammed123-code/Leetcode/tree/master/2058-concatenation-of-array) |
 | [2107-find-unique-binary-string](https://github.com/mohammed123-code/Leetcode/tree/master/2107-find-unique-binary-string) |
 | [2639-separate-the-digits-in-an-array](https://github.com/mohammed123-code/Leetcode/tree/master/2639-separate-the-digits-in-an-array) |
+| [2892-check-if-array-is-good](https://github.com/mohammed123-code/Leetcode/tree/master/2892-check-if-array-is-good) |
 | [3215-matrix-similarity-after-cyclic-shifts](https://github.com/mohammed123-code/Leetcode/tree/master/3215-matrix-similarity-after-cyclic-shifts) |
 ## Binary Search
 |  |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/mohammed123-code/Leetcode/tree/master/0645-set-mismatch) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/mohammed123-code/Leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [2107-find-unique-binary-string](https://github.com/mohammed123-code/Leetcode/tree/master/2107-find-unique-binary-string) |
+| [2892-check-if-array-is-good](https://github.com/mohammed123-code/Leetcode/tree/master/2892-check-if-array-is-good) |
 ## String
 |  |
 | ------- |
@@ -135,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/mohammed123-code/Leetcode/tree/master/0645-set-mismatch) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/mohammed123-code/Leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1784-minimum-initial-energy-to-finish-tasks](https://github.com/mohammed123-code/Leetcode/tree/master/1784-minimum-initial-energy-to-finish-tasks) |
+| [2892-check-if-array-is-good](https://github.com/mohammed123-code/Leetcode/tree/master/2892-check-if-array-is-good) |
 ## Matrix
 |  |
 | ------- |
