@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2015-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/mohammed123-code/Leetcode/tree/master/2015-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2058-concatenation-of-array](https://github.com/mohammed123-code/Leetcode/tree/master/2058-concatenation-of-array) |
 | [2107-find-unique-binary-string](https://github.com/mohammed123-code/Leetcode/tree/master/2107-find-unique-binary-string) |
+| [2634-minimum-common-value](https://github.com/mohammed123-code/Leetcode/tree/master/2634-minimum-common-value) |
 | [2639-separate-the-digits-in-an-array](https://github.com/mohammed123-code/Leetcode/tree/master/2639-separate-the-digits-in-an-array) |
 | [2892-check-if-array-is-good](https://github.com/mohammed123-code/Leetcode/tree/master/2892-check-if-array-is-good) |
 | [3215-matrix-similarity-after-cyclic-shifts](https://github.com/mohammed123-code/Leetcode/tree/master/3215-matrix-similarity-after-cyclic-shifts) |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/mohammed123-code/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
+| [2634-minimum-common-value](https://github.com/mohammed123-code/Leetcode/tree/master/2634-minimum-common-value) |
 ## Sliding Window
 |  |
 | ------- |
@@ -54,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/mohammed123-code/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0345-reverse-vowels-of-a-string](https://github.com/mohammed123-code/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0961-long-pressed-name](https://github.com/mohammed123-code/Leetcode/tree/master/0961-long-pressed-name) |
+| [2634-minimum-common-value](https://github.com/mohammed123-code/Leetcode/tree/master/2634-minimum-common-value) |
 ## Stack
 |  |
 | ------- |
@@ -87,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/mohammed123-code/Leetcode/tree/master/0645-set-mismatch) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/mohammed123-code/Leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [2107-find-unique-binary-string](https://github.com/mohammed123-code/Leetcode/tree/master/2107-find-unique-binary-string) |
+| [2634-minimum-common-value](https://github.com/mohammed123-code/Leetcode/tree/master/2634-minimum-common-value) |
 | [2892-check-if-array-is-good](https://github.com/mohammed123-code/Leetcode/tree/master/2892-check-if-array-is-good) |
 ## String
 |  |
