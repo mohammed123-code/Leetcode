@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1552-build-an-array-with-stack-operations](https://github.com/mohammed123-code/Leetcode/tree/master/1552-build-an-array-with-stack-operations) |
 | [1580-shuffle-the-array](https://github.com/mohammed123-code/Leetcode/tree/master/1580-shuffle-the-array) |
 | [1784-minimum-initial-energy-to-finish-tasks](https://github.com/mohammed123-code/Leetcode/tree/master/1784-minimum-initial-energy-to-finish-tasks) |
+| [1878-check-if-array-is-sorted-and-rotated](https://github.com/mohammed123-code/Leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1975-minimum-distance-to-the-target-element](https://github.com/mohammed123-code/Leetcode/tree/master/1975-minimum-distance-to-the-target-element) |
 | [2015-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/mohammed123-code/Leetcode/tree/master/2015-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2058-concatenation-of-array](https://github.com/mohammed123-code/Leetcode/tree/master/2058-concatenation-of-array) |
