@@ -1,18 +1,20 @@
 class Solution {
 public:
     int numberOfSpecialChars(string word) {
-        
-        unordered_set<char> st(word.begin(), word.end());
+        int lower = 0;
+        int upper = 0;
 
-        int count = 0;
-
-        for(char ch = 'a'; ch <= 'z'; ch++) {
-
-            if(st.count(ch) && st.count(ch - 'a' + 'A')) {
-                count++;
+        for(char ch : word) {
+            if(islower(ch)) {
+                lower |= (1 << (ch - 'a'));
+            }
+            else {
+                upper |= (1 << (ch - 'A'));
             }
         }
 
-        return count;
+        int common = lower & upper;
+
+        return __builtin_popcount(common);
     }
 };
