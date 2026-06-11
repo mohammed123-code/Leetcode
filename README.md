@@ -132,12 +132,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/mohammed123-code/Leetcode/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/mohammed123-code/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0200-number-of-islands](https://github.com/mohammed123-code/Leetcode/tree/master/0200-number-of-islands) |
+| [0547-number-of-provinces](https://github.com/mohammed123-code/Leetcode/tree/master/0547-number-of-provinces) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/mohammed123-code/Leetcode/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/mohammed123-code/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0200-number-of-islands](https://github.com/mohammed123-code/Leetcode/tree/master/0200-number-of-islands) |
+| [0547-number-of-provinces](https://github.com/mohammed123-code/Leetcode/tree/master/0547-number-of-provinces) |
 ## Binary Tree
 |  |
 | ------- |
@@ -182,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/mohammed123-code/Leetcode/tree/master/0200-number-of-islands) |
+| [0547-number-of-provinces](https://github.com/mohammed123-code/Leetcode/tree/master/0547-number-of-provinces) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -200,4 +203,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/mohammed123-code/Leetcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [1784-minimum-initial-energy-to-finish-tasks](https://github.com/mohammed123-code/Leetcode/tree/master/1784-minimum-initial-energy-to-finish-tasks) |
 | [2248-minimum-cost-of-buying-candies-with-discount](https://github.com/mohammed123-code/Leetcode/tree/master/2248-minimum-cost-of-buying-candies-with-discount) |
+## Graph Theory
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/mohammed123-code/Leetcode/tree/master/0547-number-of-provinces) |
 <!---LeetCode Topics End-->
