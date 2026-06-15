@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/mohammed123-code/Leetcode/tree/master/0085-maximal-rectangle) |
 | [0094-binary-tree-inorder-traversal](https://github.com/mohammed123-code/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/mohammed123-code/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0227-basic-calculator-ii](https://github.com/mohammed123-code/Leetcode/tree/master/0227-basic-calculator-ii) |
 | [0234-palindrome-linked-list](https://github.com/mohammed123-code/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0591-tag-validator](https://github.com/mohammed123-code/Leetcode/tree/master/0591-tag-validator) |
 | [0735-asteroid-collision](https://github.com/mohammed123-code/Leetcode/tree/master/0735-asteroid-collision) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/mohammed123-code/Leetcode/tree/master/0048-rotate-image) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/mohammed123-code/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0172-factorial-trailing-zeroes](https://github.com/mohammed123-code/Leetcode/tree/master/0172-factorial-trailing-zeroes) |
+| [0227-basic-calculator-ii](https://github.com/mohammed123-code/Leetcode/tree/master/0227-basic-calculator-ii) |
 | [0804-rotated-digits](https://github.com/mohammed123-code/Leetcode/tree/master/0804-rotated-digits) |
 | [3215-matrix-similarity-after-cyclic-shifts](https://github.com/mohammed123-code/Leetcode/tree/master/3215-matrix-similarity-after-cyclic-shifts) |
 | [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/mohammed123-code/Leetcode/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
@@ -115,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/mohammed123-code/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/mohammed123-code/Leetcode/tree/master/0020-valid-parentheses) |
 | [0151-reverse-words-in-a-string](https://github.com/mohammed123-code/Leetcode/tree/master/0151-reverse-words-in-a-string) |
+| [0227-basic-calculator-ii](https://github.com/mohammed123-code/Leetcode/tree/master/0227-basic-calculator-ii) |
 | [0344-reverse-string](https://github.com/mohammed123-code/Leetcode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/mohammed123-code/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0591-tag-validator](https://github.com/mohammed123-code/Leetcode/tree/master/0591-tag-validator) |
