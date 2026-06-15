@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/mohammed123-code/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0227-basic-calculator-ii](https://github.com/mohammed123-code/Leetcode/tree/master/0227-basic-calculator-ii) |
 | [0234-palindrome-linked-list](https://github.com/mohammed123-code/Leetcode/tree/master/0234-palindrome-linked-list) |
+| [0402-remove-k-digits](https://github.com/mohammed123-code/Leetcode/tree/master/0402-remove-k-digits) |
 | [0591-tag-validator](https://github.com/mohammed123-code/Leetcode/tree/master/0591-tag-validator) |
 | [0735-asteroid-collision](https://github.com/mohammed123-code/Leetcode/tree/master/0735-asteroid-collision) |
 | [1320-remove-all-adjacent-duplicates-in-string-ii](https://github.com/mohammed123-code/Leetcode/tree/master/1320-remove-all-adjacent-duplicates-in-string-ii) |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0227-basic-calculator-ii](https://github.com/mohammed123-code/Leetcode/tree/master/0227-basic-calculator-ii) |
 | [0344-reverse-string](https://github.com/mohammed123-code/Leetcode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/mohammed123-code/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
+| [0402-remove-k-digits](https://github.com/mohammed123-code/Leetcode/tree/master/0402-remove-k-digits) |
 | [0591-tag-validator](https://github.com/mohammed123-code/Leetcode/tree/master/0591-tag-validator) |
 | [0812-rotate-string](https://github.com/mohammed123-code/Leetcode/tree/master/0812-rotate-string) |
 | [0961-long-pressed-name](https://github.com/mohammed123-code/Leetcode/tree/master/0961-long-pressed-name) |
@@ -194,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0085-maximal-rectangle](https://github.com/mohammed123-code/Leetcode/tree/master/0085-maximal-rectangle) |
+| [0402-remove-k-digits](https://github.com/mohammed123-code/Leetcode/tree/master/0402-remove-k-digits) |
 ## Union-Find
 |  |
 | ------- |
@@ -214,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0402-remove-k-digits](https://github.com/mohammed123-code/Leetcode/tree/master/0402-remove-k-digits) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/mohammed123-code/Leetcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [1784-minimum-initial-energy-to-finish-tasks](https://github.com/mohammed123-code/Leetcode/tree/master/1784-minimum-initial-energy-to-finish-tasks) |
 | [2248-minimum-cost-of-buying-candies-with-discount](https://github.com/mohammed123-code/Leetcode/tree/master/2248-minimum-cost-of-buying-candies-with-discount) |
