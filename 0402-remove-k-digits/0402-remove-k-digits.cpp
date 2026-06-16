@@ -4,42 +4,50 @@ public:
 
         stack<char> st;
 
-        for(int i = 0; i < num.size(); i++) {
+        st.push(num[0]);
 
-            while(!st.empty() &&
-                  k > 0 &&
-                  st.top() > num[i]) {
+        int i = 1;
 
+        while(i < num.size()){
+
+            while((!st.empty()) && k != 0 && st.top() > num[i]){
                 st.pop();
                 k--;
             }
 
             st.push(num[i]);
+
+            i++;
         }
 
-        while(k > 0 && !st.empty()) {
+        while(k != 0 && !st.empty()){
             st.pop();
             k--;
         }
 
-        if(st.empty())
-            return "0";
-
         string res = "";
 
-        while(!st.empty()) {
-            res += st.top();
+        while(!st.empty()){
+            res.push_back(st.top());
             st.pop();
         }
 
         reverse(res.begin(), res.end());
 
-        int i = 0;
-        while(i < res.size() && res[i] == '0')
-            i++;
 
-        res = res.substr(i);
+        //leading zeros remove
+        int j = 0;
 
-        return res.empty() ? "0" : res;
+        while(j < res.size() && res[j] == '0'){
+            j++;
+        }
+
+        res = res.substr(j);
+
+        if(res.empty()){
+            return "0";
+        }
+
+        return res;
     }
 };
