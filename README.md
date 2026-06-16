@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/mohammed123-code/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0645-set-mismatch](https://github.com/mohammed123-code/Leetcode/tree/master/0645-set-mismatch) |
 | [0735-asteroid-collision](https://github.com/mohammed123-code/Leetcode/tree/master/0735-asteroid-collision) |
+| [0739-daily-temperatures](https://github.com/mohammed123-code/Leetcode/tree/master/0739-daily-temperatures) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/mohammed123-code/Leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1552-build-an-array-with-stack-operations](https://github.com/mohammed123-code/Leetcode/tree/master/1552-build-an-array-with-stack-operations) |
 | [1580-shuffle-the-array](https://github.com/mohammed123-code/Leetcode/tree/master/1580-shuffle-the-array) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0402-remove-k-digits](https://github.com/mohammed123-code/Leetcode/tree/master/0402-remove-k-digits) |
 | [0591-tag-validator](https://github.com/mohammed123-code/Leetcode/tree/master/0591-tag-validator) |
 | [0735-asteroid-collision](https://github.com/mohammed123-code/Leetcode/tree/master/0735-asteroid-collision) |
+| [0739-daily-temperatures](https://github.com/mohammed123-code/Leetcode/tree/master/0739-daily-temperatures) |
 | [1320-remove-all-adjacent-duplicates-in-string-ii](https://github.com/mohammed123-code/Leetcode/tree/master/1320-remove-all-adjacent-duplicates-in-string-ii) |
 | [1552-build-an-array-with-stack-operations](https://github.com/mohammed123-code/Leetcode/tree/master/1552-build-an-array-with-stack-operations) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/mohammed123-code/Leetcode/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
@@ -200,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0085-maximal-rectangle](https://github.com/mohammed123-code/Leetcode/tree/master/0085-maximal-rectangle) |
 | [0402-remove-k-digits](https://github.com/mohammed123-code/Leetcode/tree/master/0402-remove-k-digits) |
+| [0739-daily-temperatures](https://github.com/mohammed123-code/Leetcode/tree/master/0739-daily-temperatures) |
 ## Union-Find
 |  |
 | ------- |
