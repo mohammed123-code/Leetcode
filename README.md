@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1975-minimum-distance-to-the-target-element](https://github.com/mohammed123-code/Leetcode/tree/master/1975-minimum-distance-to-the-target-element) |
 | [2015-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/mohammed123-code/Leetcode/tree/master/2015-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2058-concatenation-of-array](https://github.com/mohammed123-code/Leetcode/tree/master/2058-concatenation-of-array) |
+| [2099-number-of-strings-that-appear-as-substrings-in-word](https://github.com/mohammed123-code/Leetcode/tree/master/2099-number-of-strings-that-appear-as-substrings-in-word) |
 | [2107-find-unique-binary-string](https://github.com/mohammed123-code/Leetcode/tree/master/2107-find-unique-binary-string) |
 | [2248-minimum-cost-of-buying-candies-with-discount](https://github.com/mohammed123-code/Leetcode/tree/master/2248-minimum-cost-of-buying-candies-with-discount) |
 | [2634-minimum-common-value](https://github.com/mohammed123-code/Leetcode/tree/master/2634-minimum-common-value) |
@@ -157,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1297-maximum-number-of-balloons](https://github.com/mohammed123-code/Leetcode/tree/master/1297-maximum-number-of-balloons) |
 | [1320-remove-all-adjacent-duplicates-in-string-ii](https://github.com/mohammed123-code/Leetcode/tree/master/1320-remove-all-adjacent-duplicates-in-string-ii) |
 | [1910-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/mohammed123-code/Leetcode/tree/master/1910-check-if-binary-string-has-at-most-one-segment-of-ones) |
+| [2099-number-of-strings-that-appear-as-substrings-in-word](https://github.com/mohammed123-code/Leetcode/tree/master/2099-number-of-strings-that-appear-as-substrings-in-word) |
 | [2107-find-unique-binary-string](https://github.com/mohammed123-code/Leetcode/tree/master/2107-find-unique-binary-string) |
 | [3408-count-the-number-of-special-characters-i](https://github.com/mohammed123-code/Leetcode/tree/master/3408-count-the-number-of-special-characters-i) |
 ## Backtracking
