@@ -298,4 +298,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/mohammed123-code/Leetcode/tree/master/0023-merge-k-sorted-lists) |
+## Enumeration
+|  |
+| ------- |
+| [1212-sequential-digits](https://github.com/mohammed123-code/Leetcode/tree/master/1212-sequential-digits) |
 <!---LeetCode Topics End-->
