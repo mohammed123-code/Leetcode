@@ -124,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0804-rotated-digits](https://github.com/mohammed123-code/Leetcode/tree/master/0804-rotated-digits) |
 | [3215-matrix-similarity-after-cyclic-shifts](https://github.com/mohammed123-code/Leetcode/tree/master/3215-matrix-similarity-after-cyclic-shifts) |
 | [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/mohammed123-code/Leetcode/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
+| [3995-gcd-of-odd-and-even-sums](https://github.com/mohammed123-code/Leetcode/tree/master/3995-gcd-of-odd-and-even-sums) |
 | [4168-mirror-distance-of-an-integer](https://github.com/mohammed123-code/Leetcode/tree/master/4168-mirror-distance-of-an-integer) |
 | [4245-count-commas-in-range](https://github.com/mohammed123-code/Leetcode/tree/master/4245-count-commas-in-range) |
 ## Hash Table
@@ -302,4 +303,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1212-sequential-digits](https://github.com/mohammed123-code/Leetcode/tree/master/1212-sequential-digits) |
+## Number Theory
+|  |
+| ------- |
+| [3995-gcd-of-odd-and-even-sums](https://github.com/mohammed123-code/Leetcode/tree/master/3995-gcd-of-odd-and-even-sums) |
 <!---LeetCode Topics End-->
