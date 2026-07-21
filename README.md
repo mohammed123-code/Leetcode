@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/mohammed123-code/Leetcode/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/mohammed123-code/Leetcode/tree/master/0739-daily-temperatures) |
 | [0792-binary-search](https://github.com/mohammed123-code/Leetcode/tree/master/0792-binary-search) |
+| [1036-rotting-oranges](https://github.com/mohammed123-code/Leetcode/tree/master/1036-rotting-oranges) |
 | [1222-remove-covered-intervals](https://github.com/mohammed123-code/Leetcode/tree/master/1222-remove-covered-intervals) |
 | [1256-rank-transform-of-an-array](https://github.com/mohammed123-code/Leetcode/tree/master/1256-rank-transform-of-an-array) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/mohammed123-code/Leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
@@ -203,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/mohammed123-code/Leetcode/tree/master/0226-invert-binary-tree) |
 | [0547-number-of-provinces](https://github.com/mohammed123-code/Leetcode/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/mohammed123-code/Leetcode/tree/master/0733-flood-fill) |
+| [1036-rotting-oranges](https://github.com/mohammed123-code/Leetcode/tree/master/1036-rotting-oranges) |
 ## Binary Tree
 |  |
 | ------- |
@@ -233,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/mohammed123-code/Leetcode/tree/master/0085-maximal-rectangle) |
 | [0200-number-of-islands](https://github.com/mohammed123-code/Leetcode/tree/master/0200-number-of-islands) |
 | [0733-flood-fill](https://github.com/mohammed123-code/Leetcode/tree/master/0733-flood-fill) |
+| [1036-rotting-oranges](https://github.com/mohammed123-code/Leetcode/tree/master/1036-rotting-oranges) |
 | [2015-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/mohammed123-code/Leetcode/tree/master/2015-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [3215-matrix-similarity-after-cyclic-shifts](https://github.com/mohammed123-code/Leetcode/tree/master/3215-matrix-similarity-after-cyclic-shifts) |
 ## Simulation
