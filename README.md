@@ -128,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0804-rotated-digits](https://github.com/mohammed123-code/Leetcode/tree/master/0804-rotated-digits) |
 | [3215-matrix-similarity-after-cyclic-shifts](https://github.com/mohammed123-code/Leetcode/tree/master/3215-matrix-similarity-after-cyclic-shifts) |
 | [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/mohammed123-code/Leetcode/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
+| [3859-maximum-product-of-two-digits](https://github.com/mohammed123-code/Leetcode/tree/master/3859-maximum-product-of-two-digits) |
 | [3995-gcd-of-odd-and-even-sums](https://github.com/mohammed123-code/Leetcode/tree/master/3995-gcd-of-odd-and-even-sums) |
 | [4168-mirror-distance-of-an-integer](https://github.com/mohammed123-code/Leetcode/tree/master/4168-mirror-distance-of-an-integer) |
 | [4242-sum-of-gcd-of-formed-pairs](https://github.com/mohammed123-code/Leetcode/tree/master/4242-sum-of-gcd-of-formed-pairs) |
@@ -227,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1784-minimum-initial-energy-to-finish-tasks](https://github.com/mohammed123-code/Leetcode/tree/master/1784-minimum-initial-energy-to-finish-tasks) |
 | [2248-minimum-cost-of-buying-candies-with-discount](https://github.com/mohammed123-code/Leetcode/tree/master/2248-minimum-cost-of-buying-candies-with-discount) |
 | [2892-check-if-array-is-good](https://github.com/mohammed123-code/Leetcode/tree/master/2892-check-if-array-is-good) |
+| [3859-maximum-product-of-two-digits](https://github.com/mohammed123-code/Leetcode/tree/master/3859-maximum-product-of-two-digits) |
 | [4242-sum-of-gcd-of-formed-pairs](https://github.com/mohammed123-code/Leetcode/tree/master/4242-sum-of-gcd-of-formed-pairs) |
 ## Matrix
 |  |
