@@ -134,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3215-matrix-similarity-after-cyclic-shifts](https://github.com/mohammed123-code/Leetcode/tree/master/3215-matrix-similarity-after-cyclic-shifts) |
 | [3275-minimum-number-of-pushes-to-type-word-i](https://github.com/mohammed123-code/Leetcode/tree/master/3275-minimum-number-of-pushes-to-type-word-i) |
 | [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/mohammed123-code/Leetcode/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
+| [3626-smallest-divisible-digit-product-i](https://github.com/mohammed123-code/Leetcode/tree/master/3626-smallest-divisible-digit-product-i) |
 | [3859-maximum-product-of-two-digits](https://github.com/mohammed123-code/Leetcode/tree/master/3859-maximum-product-of-two-digits) |
 | [3995-gcd-of-odd-and-even-sums](https://github.com/mohammed123-code/Leetcode/tree/master/3995-gcd-of-odd-and-even-sums) |
 | [4168-mirror-distance-of-an-integer](https://github.com/mohammed123-code/Leetcode/tree/master/4168-mirror-distance-of-an-integer) |
@@ -335,6 +336,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1212-sequential-digits](https://github.com/mohammed123-code/Leetcode/tree/master/1212-sequential-digits) |
+| [3626-smallest-divisible-digit-product-i](https://github.com/mohammed123-code/Leetcode/tree/master/3626-smallest-divisible-digit-product-i) |
 ## Number Theory
 |  |
 | ------- |
