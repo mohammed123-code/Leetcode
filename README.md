@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/mohammed123-code/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/mohammed123-code/Leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
+| [3349-maximum-length-substring-with-two-occurrences](https://github.com/mohammed123-code/Leetcode/tree/master/3349-maximum-length-substring-with-two-occurrences) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -159,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2107-find-unique-binary-string](https://github.com/mohammed123-code/Leetcode/tree/master/2107-find-unique-binary-string) |
 | [2634-minimum-common-value](https://github.com/mohammed123-code/Leetcode/tree/master/2634-minimum-common-value) |
 | [2892-check-if-array-is-good](https://github.com/mohammed123-code/Leetcode/tree/master/2892-check-if-array-is-good) |
+| [3349-maximum-length-substring-with-two-occurrences](https://github.com/mohammed123-code/Leetcode/tree/master/3349-maximum-length-substring-with-two-occurrences) |
 | [3408-count-the-number-of-special-characters-i](https://github.com/mohammed123-code/Leetcode/tree/master/3408-count-the-number-of-special-characters-i) |
 | [4107-find-missing-elements](https://github.com/mohammed123-code/Leetcode/tree/master/4107-find-missing-elements) |
 ## String
@@ -183,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2099-number-of-strings-that-appear-as-substrings-in-word](https://github.com/mohammed123-code/Leetcode/tree/master/2099-number-of-strings-that-appear-as-substrings-in-word) |
 | [2107-find-unique-binary-string](https://github.com/mohammed123-code/Leetcode/tree/master/2107-find-unique-binary-string) |
 | [3275-minimum-number-of-pushes-to-type-word-i](https://github.com/mohammed123-code/Leetcode/tree/master/3275-minimum-number-of-pushes-to-type-word-i) |
+| [3349-maximum-length-substring-with-two-occurrences](https://github.com/mohammed123-code/Leetcode/tree/master/3349-maximum-length-substring-with-two-occurrences) |
 | [3408-count-the-number-of-special-characters-i](https://github.com/mohammed123-code/Leetcode/tree/master/3408-count-the-number-of-special-characters-i) |
 ## Backtracking
 |  |
