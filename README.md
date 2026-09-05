@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [4080-smallest-missing-multiple-of-k](https://github.com/mohammed123-code/Leetcode/tree/master/4080-smallest-missing-multiple-of-k) |
 | [4107-find-missing-elements](https://github.com/mohammed123-code/Leetcode/tree/master/4107-find-missing-elements) |
 | [4242-sum-of-gcd-of-formed-pairs](https://github.com/mohammed123-code/Leetcode/tree/master/4242-sum-of-gcd-of-formed-pairs) |
+| [4285-smallest-stable-index-ii](https://github.com/mohammed123-code/Leetcode/tree/master/4285-smallest-stable-index-ii) |
 ## Binary Search
 |  |
 | ------- |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/mohammed123-code/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [1833-find-the-highest-altitude](https://github.com/mohammed123-code/Leetcode/tree/master/1833-find-the-highest-altitude) |
 | [2714-left-and-right-sum-differences](https://github.com/mohammed123-code/Leetcode/tree/master/2714-left-and-right-sum-differences) |
+| [4285-smallest-stable-index-ii](https://github.com/mohammed123-code/Leetcode/tree/master/4285-smallest-stable-index-ii) |
 ## Linked List
 |  |
 | ------- |
