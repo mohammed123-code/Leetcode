@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/mohammed123-code/Leetcode/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/mohammed123-code/Leetcode/tree/master/0739-daily-temperatures) |
 | [0792-binary-search](https://github.com/mohammed123-code/Leetcode/tree/master/0792-binary-search) |
+| [0907-koko-eating-bananas](https://github.com/mohammed123-code/Leetcode/tree/master/0907-koko-eating-bananas) |
 | [1036-rotting-oranges](https://github.com/mohammed123-code/Leetcode/tree/master/1036-rotting-oranges) |
 | [1222-remove-covered-intervals](https://github.com/mohammed123-code/Leetcode/tree/master/1222-remove-covered-intervals) |
 | [1256-rank-transform-of-an-array](https://github.com/mohammed123-code/Leetcode/tree/master/1256-rank-transform-of-an-array) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/mohammed123-code/Leetcode/tree/master/0035-search-insert-position) |
 | [0209-minimum-size-subarray-sum](https://github.com/mohammed123-code/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0792-binary-search](https://github.com/mohammed123-code/Leetcode/tree/master/0792-binary-search) |
+| [0907-koko-eating-bananas](https://github.com/mohammed123-code/Leetcode/tree/master/0907-koko-eating-bananas) |
 | [2634-minimum-common-value](https://github.com/mohammed123-code/Leetcode/tree/master/2634-minimum-common-value) |
 ## Sliding Window
 |  |
