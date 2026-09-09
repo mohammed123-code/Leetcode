@@ -150,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [4168-mirror-distance-of-an-integer](https://github.com/mohammed123-code/Leetcode/tree/master/4168-mirror-distance-of-an-integer) |
 | [4242-sum-of-gcd-of-formed-pairs](https://github.com/mohammed123-code/Leetcode/tree/master/4242-sum-of-gcd-of-formed-pairs) |
 | [4245-count-commas-in-range](https://github.com/mohammed123-code/Leetcode/tree/master/4245-count-commas-in-range) |
+| [4248-count-commas-in-range-ii](https://github.com/mohammed123-code/Leetcode/tree/master/4248-count-commas-in-range-ii) |
 ## Hash Table
 |  |
 | ------- |
