@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3347-distribute-elements-into-two-arrays-i](https://github.com/mohammed123-code/Leetcode/tree/master/3347-distribute-elements-into-two-arrays-i) |
 | [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/mohammed123-code/Leetcode/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
 | [3705-find-the-largest-almost-missing-integer](https://github.com/mohammed123-code/Leetcode/tree/master/3705-find-the-largest-almost-missing-integer) |
+| [3799-unique-3-digit-even-numbers](https://github.com/mohammed123-code/Leetcode/tree/master/3799-unique-3-digit-even-numbers) |
 | [4080-smallest-missing-multiple-of-k](https://github.com/mohammed123-code/Leetcode/tree/master/4080-smallest-missing-multiple-of-k) |
 | [4107-find-missing-elements](https://github.com/mohammed123-code/Leetcode/tree/master/4107-find-missing-elements) |
 | [4242-sum-of-gcd-of-formed-pairs](https://github.com/mohammed123-code/Leetcode/tree/master/4242-sum-of-gcd-of-formed-pairs) |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/mohammed123-code/Leetcode/tree/master/0002-add-two-numbers) |
 | [0234-palindrome-linked-list](https://github.com/mohammed123-code/Leetcode/tree/master/0234-palindrome-linked-list) |
+| [3799-unique-3-digit-even-numbers](https://github.com/mohammed123-code/Leetcode/tree/master/3799-unique-3-digit-even-numbers) |
 ## Math
 |  |
 | ------- |
@@ -174,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3349-maximum-length-substring-with-two-occurrences](https://github.com/mohammed123-code/Leetcode/tree/master/3349-maximum-length-substring-with-two-occurrences) |
 | [3408-count-the-number-of-special-characters-i](https://github.com/mohammed123-code/Leetcode/tree/master/3408-count-the-number-of-special-characters-i) |
 | [3705-find-the-largest-almost-missing-integer](https://github.com/mohammed123-code/Leetcode/tree/master/3705-find-the-largest-almost-missing-integer) |
+| [3799-unique-3-digit-even-numbers](https://github.com/mohammed123-code/Leetcode/tree/master/3799-unique-3-digit-even-numbers) |
 | [4080-smallest-missing-multiple-of-k](https://github.com/mohammed123-code/Leetcode/tree/master/4080-smallest-missing-multiple-of-k) |
 | [4107-find-missing-elements](https://github.com/mohammed123-code/Leetcode/tree/master/4107-find-missing-elements) |
 ## String
@@ -374,6 +377,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1212-sequential-digits](https://github.com/mohammed123-code/Leetcode/tree/master/1212-sequential-digits) |
 | [3626-smallest-divisible-digit-product-i](https://github.com/mohammed123-code/Leetcode/tree/master/3626-smallest-divisible-digit-product-i) |
+| [3799-unique-3-digit-even-numbers](https://github.com/mohammed123-code/Leetcode/tree/master/3799-unique-3-digit-even-numbers) |
 ## Number Theory
 |  |
 | ------- |
