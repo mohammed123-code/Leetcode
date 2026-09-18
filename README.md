@@ -231,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/mohammed123-code/Leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0547-number-of-provinces](https://github.com/mohammed123-code/Leetcode/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/mohammed123-code/Leetcode/tree/master/0733-flood-fill) |
+| [0820-find-eventual-safe-states](https://github.com/mohammed123-code/Leetcode/tree/master/0820-find-eventual-safe-states) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -245,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/mohammed123-code/Leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0547-number-of-provinces](https://github.com/mohammed123-code/Leetcode/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/mohammed123-code/Leetcode/tree/master/0733-flood-fill) |
+| [0820-find-eventual-safe-states](https://github.com/mohammed123-code/Leetcode/tree/master/0820-find-eventual-safe-states) |
 | [1036-rotting-oranges](https://github.com/mohammed123-code/Leetcode/tree/master/1036-rotting-oranges) |
 ## Binary Tree
 |  |
@@ -344,6 +346,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0310-minimum-height-trees](https://github.com/mohammed123-code/Leetcode/tree/master/0310-minimum-height-trees) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/mohammed123-code/Leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0547-number-of-provinces](https://github.com/mohammed123-code/Leetcode/tree/master/0547-number-of-provinces) |
+| [0820-find-eventual-safe-states](https://github.com/mohammed123-code/Leetcode/tree/master/0820-find-eventual-safe-states) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -390,6 +393,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0210-course-schedule-ii](https://github.com/mohammed123-code/Leetcode/tree/master/0210-course-schedule-ii) |
 | [0310-minimum-height-trees](https://github.com/mohammed123-code/Leetcode/tree/master/0310-minimum-height-trees) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/mohammed123-code/Leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0820-find-eventual-safe-states](https://github.com/mohammed123-code/Leetcode/tree/master/0820-find-eventual-safe-states) |
 ## Directed Acyclic Graph
 |  |
 | ------- |
@@ -399,4 +403,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/mohammed123-code/Leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
+## Kosaraju's Algorithm
+|  |
+| ------- |
+| [0820-find-eventual-safe-states](https://github.com/mohammed123-code/Leetcode/tree/master/0820-find-eventual-safe-states) |
+## Tarjan's SCC Algorithm
+|  |
+| ------- |
+| [0820-find-eventual-safe-states](https://github.com/mohammed123-code/Leetcode/tree/master/0820-find-eventual-safe-states) |
 <!---LeetCode Topics End-->
