@@ -436,6 +436,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Database
 |  |
 | ------- |
+| [1509-replace-employee-id-with-the-unique-identifier](https://github.com/mohammed123-code/Leetcode/tree/master/1509-replace-employee-id-with-the-unique-identifier) |
 | [1827-invalid-tweets](https://github.com/mohammed123-code/Leetcode/tree/master/1827-invalid-tweets) |
 | [1908-recyclable-and-low-fat-products](https://github.com/mohammed123-code/Leetcode/tree/master/1908-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
