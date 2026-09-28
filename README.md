@@ -128,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/mohammed123-code/Leetcode/tree/master/0739-daily-temperatures) |
 | [1320-remove-all-adjacent-duplicates-in-string-ii](https://github.com/mohammed123-code/Leetcode/tree/master/1320-remove-all-adjacent-duplicates-in-string-ii) |
 | [1552-build-an-array-with-stack-operations](https://github.com/mohammed123-code/Leetcode/tree/master/1552-build-an-array-with-stack-operations) |
+| [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/mohammed123-code/Leetcode/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/mohammed123-code/Leetcode/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 ## Recursion
 |  |
@@ -203,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1297-maximum-number-of-balloons](https://github.com/mohammed123-code/Leetcode/tree/master/1297-maximum-number-of-balloons) |
 | [1320-remove-all-adjacent-duplicates-in-string-ii](https://github.com/mohammed123-code/Leetcode/tree/master/1320-remove-all-adjacent-duplicates-in-string-ii) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/mohammed123-code/Leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
+| [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/mohammed123-code/Leetcode/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [1910-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/mohammed123-code/Leetcode/tree/master/1910-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [2099-number-of-strings-that-appear-as-substrings-in-word](https://github.com/mohammed123-code/Leetcode/tree/master/2099-number-of-strings-that-appear-as-substrings-in-word) |
 | [2107-find-unique-binary-string](https://github.com/mohammed123-code/Leetcode/tree/master/2107-find-unique-binary-string) |
@@ -451,4 +453,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1827-invalid-tweets](https://github.com/mohammed123-code/Leetcode/tree/master/1827-invalid-tweets) |
 | [1908-recyclable-and-low-fat-products](https://github.com/mohammed123-code/Leetcode/tree/master/1908-recyclable-and-low-fat-products) |
 | [2087-confirmation-rate](https://github.com/mohammed123-code/Leetcode/tree/master/2087-confirmation-rate) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/mohammed123-code/Leetcode/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
