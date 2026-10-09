@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/mohammed123-code/Leetcode/tree/master/0001-two-sum) |
+| [0014-longest-common-prefix](https://github.com/mohammed123-code/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/mohammed123-code/Leetcode/tree/master/0015-3sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/mohammed123-code/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/mohammed123-code/Leetcode/tree/master/0035-search-insert-position) |
@@ -194,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0006-zigzag-conversion](https://github.com/mohammed123-code/Leetcode/tree/master/0006-zigzag-conversion) |
+| [0014-longest-common-prefix](https://github.com/mohammed123-code/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/mohammed123-code/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/mohammed123-code/Leetcode/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/mohammed123-code/Leetcode/tree/master/0049-group-anagrams) |
@@ -475,4 +477,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0886-score-of-parentheses](https://github.com/mohammed123-code/Leetcode/tree/master/0886-score-of-parentheses) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/mohammed123-code/Leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/mohammed123-code/Leetcode/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/mohammed123-code/Leetcode/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
