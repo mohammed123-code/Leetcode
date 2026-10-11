@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2634-minimum-common-value](https://github.com/mohammed123-code/Leetcode/tree/master/2634-minimum-common-value) |
 | [2639-separate-the-digits-in-an-array](https://github.com/mohammed123-code/Leetcode/tree/master/2639-separate-the-digits-in-an-array) |
 | [2714-left-and-right-sum-differences](https://github.com/mohammed123-code/Leetcode/tree/master/2714-left-and-right-sum-differences) |
+| [2844-sum-of-squares-of-special-elements](https://github.com/mohammed123-code/Leetcode/tree/master/2844-sum-of-squares-of-special-elements) |
 | [2892-check-if-array-is-good](https://github.com/mohammed123-code/Leetcode/tree/master/2892-check-if-array-is-good) |
 | [3215-matrix-similarity-after-cyclic-shifts](https://github.com/mohammed123-code/Leetcode/tree/master/3215-matrix-similarity-after-cyclic-shifts) |
 | [3347-distribute-elements-into-two-arrays-i](https://github.com/mohammed123-code/Leetcode/tree/master/3347-distribute-elements-into-two-arrays-i) |
@@ -407,6 +408,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1212-sequential-digits](https://github.com/mohammed123-code/Leetcode/tree/master/1212-sequential-digits) |
+| [2844-sum-of-squares-of-special-elements](https://github.com/mohammed123-code/Leetcode/tree/master/2844-sum-of-squares-of-special-elements) |
 | [3626-smallest-divisible-digit-product-i](https://github.com/mohammed123-code/Leetcode/tree/master/3626-smallest-divisible-digit-product-i) |
 | [3799-unique-3-digit-even-numbers](https://github.com/mohammed123-code/Leetcode/tree/master/3799-unique-3-digit-even-numbers) |
 ## Number Theory
