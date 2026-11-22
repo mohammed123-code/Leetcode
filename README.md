@@ -232,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1910-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/mohammed123-code/Leetcode/tree/master/1910-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [2099-number-of-strings-that-appear-as-substrings-in-word](https://github.com/mohammed123-code/Leetcode/tree/master/2099-number-of-strings-that-appear-as-substrings-in-word) |
 | [2107-find-unique-binary-string](https://github.com/mohammed123-code/Leetcode/tree/master/2107-find-unique-binary-string) |
+| [2243-check-if-all-as-appears-before-all-bs](https://github.com/mohammed123-code/Leetcode/tree/master/2243-check-if-all-as-appears-before-all-bs) |
 | [3275-minimum-number-of-pushes-to-type-word-i](https://github.com/mohammed123-code/Leetcode/tree/master/3275-minimum-number-of-pushes-to-type-word-i) |
 | [3349-maximum-length-substring-with-two-occurrences](https://github.com/mohammed123-code/Leetcode/tree/master/3349-maximum-length-substring-with-two-occurrences) |
 | [3408-count-the-number-of-special-characters-i](https://github.com/mohammed123-code/Leetcode/tree/master/3408-count-the-number-of-special-characters-i) |
