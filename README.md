@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1036-rotting-oranges](https://github.com/mohammed123-code/Leetcode/tree/master/1036-rotting-oranges) |
 | [1222-remove-covered-intervals](https://github.com/mohammed123-code/Leetcode/tree/master/1222-remove-covered-intervals) |
 | [1256-rank-transform-of-an-array](https://github.com/mohammed123-code/Leetcode/tree/master/1256-rank-transform-of-an-array) |
+| [1477-product-of-the-last-k-numbers](https://github.com/mohammed123-code/Leetcode/tree/master/1477-product-of-the-last-k-numbers) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/mohammed123-code/Leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/mohammed123-code/Leetcode/tree/master/1486-find-the-distance-value-between-two-arrays) |
 | [1552-build-an-array-with-stack-operations](https://github.com/mohammed123-code/Leetcode/tree/master/1552-build-an-array-with-stack-operations) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/mohammed123-code/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0525-contiguous-array](https://github.com/mohammed123-code/Leetcode/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/mohammed123-code/Leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [1477-product-of-the-last-k-numbers](https://github.com/mohammed123-code/Leetcode/tree/master/1477-product-of-the-last-k-numbers) |
 | [1833-find-the-highest-altitude](https://github.com/mohammed123-code/Leetcode/tree/master/1833-find-the-highest-altitude) |
 | [2714-left-and-right-sum-differences](https://github.com/mohammed123-code/Leetcode/tree/master/2714-left-and-right-sum-differences) |
 | [4285-smallest-stable-index-ii](https://github.com/mohammed123-code/Leetcode/tree/master/4285-smallest-stable-index-ii) |
@@ -168,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/mohammed123-code/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0804-rotated-digits](https://github.com/mohammed123-code/Leetcode/tree/master/0804-rotated-digits) |
 | [0949-cat-and-mouse](https://github.com/mohammed123-code/Leetcode/tree/master/0949-cat-and-mouse) |
+| [1477-product-of-the-last-k-numbers](https://github.com/mohammed123-code/Leetcode/tree/master/1477-product-of-the-last-k-numbers) |
 | [3215-matrix-similarity-after-cyclic-shifts](https://github.com/mohammed123-code/Leetcode/tree/master/3215-matrix-similarity-after-cyclic-shifts) |
 | [3275-minimum-number-of-pushes-to-type-word-i](https://github.com/mohammed123-code/Leetcode/tree/master/3275-minimum-number-of-pushes-to-type-word-i) |
 | [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/mohammed123-code/Leetcode/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
@@ -413,10 +416,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/mohammed123-code/Leetcode/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/mohammed123-code/Leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0295-find-median-from-data-stream](https://github.com/mohammed123-code/Leetcode/tree/master/0295-find-median-from-data-stream) |
+| [1477-product-of-the-last-k-numbers](https://github.com/mohammed123-code/Leetcode/tree/master/1477-product-of-the-last-k-numbers) |
 ## Data Stream
 |  |
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/mohammed123-code/Leetcode/tree/master/0295-find-median-from-data-stream) |
+| [1477-product-of-the-last-k-numbers](https://github.com/mohammed123-code/Leetcode/tree/master/1477-product-of-the-last-k-numbers) |
 ## Merge Sort
 |  |
 | ------- |
