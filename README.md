@@ -176,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3215-matrix-similarity-after-cyclic-shifts](https://github.com/mohammed123-code/Leetcode/tree/master/3215-matrix-similarity-after-cyclic-shifts) |
 | [3275-minimum-number-of-pushes-to-type-word-i](https://github.com/mohammed123-code/Leetcode/tree/master/3275-minimum-number-of-pushes-to-type-word-i) |
 | [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/mohammed123-code/Leetcode/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
+| [3625-stone-removal-game](https://github.com/mohammed123-code/Leetcode/tree/master/3625-stone-removal-game) |
 | [3626-smallest-divisible-digit-product-i](https://github.com/mohammed123-code/Leetcode/tree/master/3626-smallest-divisible-digit-product-i) |
 | [3859-maximum-product-of-two-digits](https://github.com/mohammed123-code/Leetcode/tree/master/3859-maximum-product-of-two-digits) |
 | [3918-check-divisibility-by-digit-sum-and-product](https://github.com/mohammed123-code/Leetcode/tree/master/3918-check-divisibility-by-digit-sum-and-product) |
@@ -338,6 +339,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2639-separate-the-digits-in-an-array](https://github.com/mohammed123-code/Leetcode/tree/master/2639-separate-the-digits-in-an-array) |
 | [3215-matrix-similarity-after-cyclic-shifts](https://github.com/mohammed123-code/Leetcode/tree/master/3215-matrix-similarity-after-cyclic-shifts) |
 | [3347-distribute-elements-into-two-arrays-i](https://github.com/mohammed123-code/Leetcode/tree/master/3347-distribute-elements-into-two-arrays-i) |
+| [3625-stone-removal-game](https://github.com/mohammed123-code/Leetcode/tree/master/3625-stone-removal-game) |
 | [4242-sum-of-gcd-of-formed-pairs](https://github.com/mohammed123-code/Leetcode/tree/master/4242-sum-of-gcd-of-formed-pairs) |
 ## Dynamic Programming
 |  |
