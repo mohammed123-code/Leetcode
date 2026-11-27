@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/mohammed123-code/Leetcode/tree/master/0200-number-of-islands) |
 | [0209-minimum-size-subarray-sum](https://github.com/mohammed123-code/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/mohammed123-code/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0219-contains-duplicate-ii](https://github.com/mohammed123-code/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0322-coin-change](https://github.com/mohammed123-code/Leetcode/tree/master/0322-coin-change) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/mohammed123-code/Leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0414-third-maximum-number](https://github.com/mohammed123-code/Leetcode/tree/master/0414-third-maximum-number) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/mohammed123-code/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
+| [0219-contains-duplicate-ii](https://github.com/mohammed123-code/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/mohammed123-code/Leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [3349-maximum-length-substring-with-two-occurrences](https://github.com/mohammed123-code/Leetcode/tree/master/3349-maximum-length-substring-with-two-occurrences) |
 ## Prefix Sum
@@ -194,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/mohammed123-code/Leetcode/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/mohammed123-code/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0202-happy-number](https://github.com/mohammed123-code/Leetcode/tree/master/0202-happy-number) |
+| [0219-contains-duplicate-ii](https://github.com/mohammed123-code/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/mohammed123-code/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0525-contiguous-array](https://github.com/mohammed123-code/Leetcode/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/mohammed123-code/Leetcode/tree/master/0560-subarray-sum-equals-k) |
