@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/mohammed123-code/Leetcode/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/mohammed123-code/Leetcode/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
 | [3705-find-the-largest-almost-missing-integer](https://github.com/mohammed123-code/Leetcode/tree/master/3705-find-the-largest-almost-missing-integer) |
+| [3742-maximum-number-of-items-from-sale-i](https://github.com/mohammed123-code/Leetcode/tree/master/3742-maximum-number-of-items-from-sale-i) |
 | [3799-unique-3-digit-even-numbers](https://github.com/mohammed123-code/Leetcode/tree/master/3799-unique-3-digit-even-numbers) |
 | [4080-smallest-missing-multiple-of-k](https://github.com/mohammed123-code/Leetcode/tree/master/4080-smallest-missing-multiple-of-k) |
 | [4107-find-missing-elements](https://github.com/mohammed123-code/Leetcode/tree/master/4107-find-missing-elements) |
@@ -361,6 +362,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/mohammed123-code/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0804-rotated-digits](https://github.com/mohammed123-code/Leetcode/tree/master/0804-rotated-digits) |
 | [0949-cat-and-mouse](https://github.com/mohammed123-code/Leetcode/tree/master/0949-cat-and-mouse) |
+| [3742-maximum-number-of-items-from-sale-i](https://github.com/mohammed123-code/Leetcode/tree/master/3742-maximum-number-of-items-from-sale-i) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -398,6 +400,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1784-minimum-initial-energy-to-finish-tasks](https://github.com/mohammed123-code/Leetcode/tree/master/1784-minimum-initial-energy-to-finish-tasks) |
 | [2248-minimum-cost-of-buying-candies-with-discount](https://github.com/mohammed123-code/Leetcode/tree/master/2248-minimum-cost-of-buying-candies-with-discount) |
 | [3275-minimum-number-of-pushes-to-type-word-i](https://github.com/mohammed123-code/Leetcode/tree/master/3275-minimum-number-of-pushes-to-type-word-i) |
+| [3742-maximum-number-of-items-from-sale-i](https://github.com/mohammed123-code/Leetcode/tree/master/3742-maximum-number-of-items-from-sale-i) |
 ## Graph Theory
 |  |
 | ------- |
